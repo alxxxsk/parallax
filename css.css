@@ -2,6 +2,9 @@
     margin: 0%;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 .content{
     background-color: #ccc;
     min-height: 700px;
@@ -11,6 +14,7 @@
     width: 20%;
     top: 20%;
     margin-left: 10%;
+    margin-bottom: 10%;
 }
 .main{
     margin-left: 20%;
@@ -21,5 +25,3 @@
     background-attachment: fixed;
 
 }
-
-
