@@ -6,11 +6,11 @@
     background-color: #ccc;
     min-height: 700px;
 }
-.content-header{
-    height: 50px;
-    background-color: #555;
+.menu{
     position: sticky;
-    top: 0;
+    width: 20%;
+    top: 20%;
+    margin-left: 10%;
 }
 .parallax{
     min-height: 250px;
@@ -18,3 +18,4 @@
     background-attachment: fixed;
 
 }
+
